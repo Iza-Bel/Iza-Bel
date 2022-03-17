@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Iza-Bel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Iza-Bel/Iza-Bel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I'am Izabel Evangelista. 
+- I Have 34 year. 
+- I have 12 years of e-Commerce experience and actually estou explorando Programation and Date Science.
+- My object is change carrer, how i'm always participated that area of technology, i want know more.
