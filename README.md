@@ -1,4 +1,4 @@
 - Hi, I'am Izabel Evangelista. 
 - I Have 34 year. 
-- I have 12 years of e-Commerce experience and actually estou explorando Programation and Date Science.
+- I have 12 years of e-Commerce experience and actually I'm exploring Programation and Date Science.
 - My object is change carrer, how i'm always participated that area of technology, i want know more.
