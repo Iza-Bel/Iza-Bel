@@ -6,6 +6,8 @@ Acredito linguagens como Python e Java, possibilitam mudança estruturais para a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iza-Bel&show_icons=true&theme=default)
 <div style="display: inline_block"><br>
+
+<img align="center" alt="Bel_Ling" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />      
 <img align="center" alt="Bel_Ling" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="center" alt="Bel_Ling" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" alt="Bel_Ling" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
